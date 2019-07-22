@@ -5,8 +5,7 @@
         <entry key="$USER_HOME$/PycharmProjects/machine-learning/.idea/machine-learning.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="token" value="ba12b6fbb49cfb519eb624636119f96c2e0c83ccd9cc63ec" />
-              <option name="urlString" value="http://localhost:8890/" />
+              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
