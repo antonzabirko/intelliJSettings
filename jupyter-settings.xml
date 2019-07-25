@@ -9,6 +9,14 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/PycharmProjects/scratch/.idea/scratch.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="3638ec957bbaa36b8035945e944c8c619a0afffefe7cc638" />
+              <option name="urlString" value="http://localhost:8892/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
