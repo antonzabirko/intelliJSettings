@@ -6,7 +6,7 @@
     <option name="myMap">
       <map>
         <entry key="Code Completion Basics" value="NOT_PASSED" />
-        <entry key="Find Actions" value="NOT_PASSED" />
+        <entry key="Find Actions" value="PASSED" />
         <entry key="Live Templates" value="NOT_PASSED" />
         <entry key="String Conversions" value="NOT_PASSED" />
         <entry key="php.CodeGolf.ExtractVariable" value="NOT_PASSED" />
