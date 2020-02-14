@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="RestoreDefaultLayout">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581716754004" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581716760089" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.keymap.impl.KeymapImplKt$notifyAboutMissingKeymap$1$projectOpened$1$action$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581716743972" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
