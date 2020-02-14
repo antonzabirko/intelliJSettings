@@ -1,4 +1,8 @@
 <keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
