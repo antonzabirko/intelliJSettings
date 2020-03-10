@@ -1,0 +1,18 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="PHP" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="myMap">
+      <map>
+        <entry key="Code Completion Basics" value="PASSED" />
+        <entry key="Find Actions" value="PASSED" />
+        <entry key="Live Templates" value="PASSED" />
+        <entry key="String Conversions" value="PASSED" />
+        <entry key="php.CodeGolf.ExtractVariable" value="PASSED" />
+        <entry key="php.CodeGolf.GenerateConstructorFromFields" value="PASSED" />
+        <entry key="php.CodeGolf.ImplementMissingMethodsWithAltEnter" value="PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
