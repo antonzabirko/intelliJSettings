@@ -91,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/index.php" timestamp="1589597888072">
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/index.php" timestamp="1589654193456">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="22" column="38" />
         <mark key="^" line="22" column="38" />
@@ -144,11 +144,11 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/.env" timestamp="1589649807089">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/.env" timestamp="1589651377835">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="/PHP Console" timestamp="1581714447815">
         <mark key="[" line="0" column="0" />
@@ -159,11 +159,11 @@
         <mark key="." line="32" column="67" />
         <mark key="^" line="32" column="68" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/nginx/sites/default.conf" timestamp="1589649596161">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/nginx/sites/default.conf" timestamp="1589651363702">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.3_Recent_files.md" timestamp="1581642957192">
         <mark key="[" line="7" column="0" />
