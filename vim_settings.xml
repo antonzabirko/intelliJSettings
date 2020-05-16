@@ -4,6 +4,35 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zZXQgc3Vycm91bmQ=</entry>
+        <entry>ys</entry>
+        <entry>cs&quot;'</entry>
+        <entry>verbose vmap S</entry>
+        <entry>c</entry>
+        <entry>s</entry>
+        <entry>help</entry>
+        <entry>help :global</entry>
+        <entry>set surround?</entry>
+        <entry>g</entry>
+        <entry>g/surround</entry>
+        <entry>scriptnames</entry>
+        <entry>cs</entry>
+        <entry>map</entry>
+        <entry>S</entry>
+        <entry>set timeoutlen?</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>listactions</entry>
+        <entry>actionlist</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -57,19 +86,174 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/index.php" timestamp="1589597888072">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="22" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1581698724303">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/02_Conditional_Breakpoint.php" timestamp="1581697817712">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
+      <file name="/fragment.php" timestamp="1581714548861">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/05_Debug_Tool_Window.php" timestamp="1581714973604">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="28" column="33" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" timestamp="1581694328573">
+        <mark key="'" line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" timestamp="1581711467796">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="0" />
+        <mark key="m" line="22" column="4" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/tutorial/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.1_Navigate_back.php" timestamp="1581632903191">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/05_Find_usages/5.2_Find_Usages.php" timestamp="1581712058816">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="41" />
+        <mark key="^" line="33" column="42" />
+      </file>
+      <file name="/PHP Console" timestamp="1581714447815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/06_Navigate_through_execution.php" timestamp="1581716574341">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="68" />
+        <mark key="." line="32" column="67" />
+        <mark key="^" line="32" column="68" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.3_Recent_files.md" timestamp="1581642957192">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/tutorial/workshop/02_Editing/06_Generate_code/6.1_Generate_Code.php" timestamp="1581622449906">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="1" />
+        <mark key="m" line="16" column="0" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/tutorial/workshop/03_Inspections/07_Find_Issues.php" timestamp="1581634569390">
+        <mark key="[" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/Code/Person.php" timestamp="1581713699280">
+        <mark key="'" line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/03_Inspections/01_Highlights.php" timestamp="1581694997711">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/tutorial/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.1_Navigate_back.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" />
+      <jump line="15" column="20" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" />
+      <jump line="16" column="4" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" />
+      <jump line="17" column="20" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" />
+      <jump line="30" column="78" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/05_Debug_Tool_Window.php" />
+      <jump line="24" column="20" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/Code/Person.php" />
+      <jump line="25" column="29" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/05_Debug_Tool_Window.php" />
+      <jump line="31" column="4" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" />
+      <jump line="27" column="4" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" />
+      <jump line="22" column="4" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" />
+      <jump line="29" column="17" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/05_Find_usages/5.2_Find_Usages.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/05_Find_usages/5.2_Find_Usages.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/05_Find_usages/5.2_Find_Usages.php" />
+      <jump line="24" column="61" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/05_Debug_Tool_Window.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/05_Debug_Tool_Window.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCBsaWtlcyA=</text>
+      </register>
+      <register name="c" type="4">
+        <text encoding="base64">JHBlcnNvbi0+Z2V0TmFtZSgp</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">LCBsaWtlcyA=</text>
+      </register>
+      <register name="0" type="4">
+        <text>Place a breakpoint on the following line of code.</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIDIuIFBsYWNlIGEgYnJlYWtwb2ludCBvbiB0aGUgZm9sbG93aW5nIGxpbmUgb2YgY29kZS4K</text>
+      </register>
+      <register name="2" type="4">
+        <text>a</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHBlcnNvbi0+Z2V0TmFtZSgpIC4gIiBsaWtlcyAiIC4gJGZydWl0IC4gIlxyXG4iOwp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHBlcnNvbi0+Z2V0TmFtZSgpIC4gIiBsaWtlcyAiIC4gJGZydWl0IC4gIlxyXG4iOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHBlcnNvbi0+Z2V0TmFtZSgpIC4gIiBsaWtlcyAiIC4gJGZydWl0IC4gIlxyXG4iOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHBlcnNvbi0+Z2V0TmFtZSgpIC4gIiBsaWtlcyAiIC4gJGZydWl0IC4gIlxyXG4iOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBlY2hvICRwZXJzb24tPmdldE5hbWUoKQ==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JHBlcnNvbi0+Z2V0TmFtZSgp</text>
+      </register>
+      <register name="y" type="4">
+        <text>a</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoZW1wdHkoJGlucHV0TmFtZSkgPyAiVW5rbm93biIgOiAkaW5wdXROYW1lKSAuICIgaXMgaGVyZS4iOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
