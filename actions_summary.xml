@@ -2,6 +2,14 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="ActivateTODOToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581716818449" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="RestoreDefaultLayout">
           <value>
             <ActionSummary>
