@@ -93,7 +93,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/index.php" timestamp="1589658995968">
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/index.php" timestamp="1589666382439">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="37" />
         <mark key="^" line="23" column="37" />
@@ -130,6 +130,9 @@
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" timestamp="1581694328573">
         <mark key="'" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/crud/public/index.php" timestamp="1589666409664">
+        <mark key="[" line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" timestamp="1581711467796">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="34" column="12" />
@@ -145,9 +148,9 @@
         <mark key="." line="33" column="41" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/.env" timestamp="1589664360184">
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/.env" timestamp="1589666174576">
         <mark key="'" line="182" column="27" />
-        <mark key="[" line="7" column="31" />
+        <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="21" />
@@ -161,8 +164,8 @@
         <mark key="." line="32" column="67" />
         <mark key="^" line="32" column="68" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/nginx/sites/default.conf" timestamp="1589651363702">
-        <mark key="[" line="12" column="29" />
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/nginx/sites/default.conf" timestamp="1589666503885">
+        <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="17" />
@@ -173,9 +176,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/tutorial/workshop/03_Inspections/07_Find_Issues.php" timestamp="1581634569390">
-        <mark key="[" line="17" column="5" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/07_Debugging/Code/Person.php" timestamp="1581713699280">
         <mark key="'" line="24" column="20" />
       </file>
@@ -185,6 +185,7 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/docker-compose.yml" timestamp="1589664629082" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/tutorial/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.1_Navigate_back.php" />
