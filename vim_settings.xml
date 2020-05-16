@@ -121,9 +121,8 @@
         <mark key="." line="24" column="60" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/Dockerfile" timestamp="1589655954438" />
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/docker-entrypoint-initdb.d/createdb.sql" timestamp="1589662434189">
-        <mark key="[" line="1" column="48" />
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/docker-entrypoint-initdb.d/createdb.sql" timestamp="1589663344835">
+        <mark key="[" line="6" column="0" />
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="35" />
@@ -131,7 +130,6 @@
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" timestamp="1581694328573">
         <mark key="'" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/redis/Dockerfile" timestamp="1589655665241" />
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.2_Next_Method.php" timestamp="1581711467796">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="34" column="12" />
@@ -187,7 +185,6 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/docker-compose.yml" timestamp="1589655709474" />
     </filemarks>
     <jumps>
       <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/tutorial/workshop/01_Navigation/03_Navigating_to_somewhere_we_have_been/3.1_Navigate_back.php" />
