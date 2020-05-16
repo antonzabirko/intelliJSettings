@@ -1,15 +1,11 @@
 <scheme name="_@user_Cyan light" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-02-14T13:24:02</property>
+    <property name="created">2020-02-15T15:55:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-14T14:02:19</property>
+    <property name="modified">2020-02-16T11:14:40</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e4eaed" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f3f3f3" />
