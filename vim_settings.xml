@@ -122,8 +122,11 @@
         <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/Dockerfile" timestamp="1589655954438" />
-      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/docker-entrypoint-initdb.d/createdb.sql" timestamp="1589661912410">
-        <mark key="[" line="0" column="42" />
+      <file name="$USER_HOME$/PhpstormProjects/project_4800/laradock/mysql/docker-entrypoint-initdb.d/createdb.sql" timestamp="1589662434189">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="34" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/untitled/workshop/01_Navigation/04_Navigate_class_hieracrhies/4.1_Go_to_Implementation.php" timestamp="1581694328573">
         <mark key="'" line="17" column="20" />
@@ -211,13 +214,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBsaWtlcyA=</text>
+        <text>items</text>
       </register>
       <register name="c" type="4">
         <text encoding="base64">JHBlcnNvbi0+Z2V0TmFtZSgp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBsaWtlcyA=</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
